@@ -1,1 +1,1 @@
-The purpose of this repo is to store all bash scripts I make for QOL in Linux
+The purpose of this repo is to store my solutions to problems on https://projecteuler.net/
